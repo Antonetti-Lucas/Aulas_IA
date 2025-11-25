@@ -9,7 +9,7 @@ Material para aulas de Inteligência Artificial do Curso de Ciência da Computa�
 
 * Aula Multi Layer Perceptron - ([Código](https://github.com/claytontey/Aulas_IA/tree/main/mlp))
 
-* Entrega do Artigo - ([Artigos]())
+* Entrega do Artigo - ([Artigos](https://github.com/claytontey/Aulas_IA/tree/main/Trabalho_final)).
 
 
 
